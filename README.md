@@ -8,8 +8,6 @@ Research engineer, M.Sc. in Computer Engineering, experienced in multi‑sensor 
 
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=giacolees&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=giacolees&theme=dark&hide_border=false)<br/>
-
 
 
 
