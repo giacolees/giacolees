@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">Giacomo Lisita / @giacolees</title>
+  <desc id="desc">An experimental research poster: oversized warm-white lettering beside abstract coral waveforms and electric-blue radar rings on a near-black field.</desc>
+  <defs>
+    <clipPath id="art"><rect x="770" y="100" width="390" height="440"/></clipPath>
+  </defs>
+  <rect width="1200" height="640" fill="#111214"/>
+  <path d="M48 64H1152" stroke="#464747"/>
+  <g fill="#F5F0E8" font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="43" font-size="17" letter-spacing="3">@giacolees</text>
+    <text x="1152" y="43" font-size="14" letter-spacing="2" text-anchor="end">PERCEPTION / SIGNAL / INTELLIGENCE</text>
+    <g font-size="142" font-weight="900" letter-spacing="-8">
+      <text x="39" y="249" textLength="684" lengthAdjust="spacingAndGlyphs">GIACOMO</text>
+      <text x="39" y="393" textLength="545" lengthAdjust="spacingAndGlyphs">LISITA</text>
+    </g>
+  </g>
+  <g clip-path="url(#art)" fill="none">
+    <g stroke="#345BFF" stroke-width="2">
+      <circle cx="1003" cy="315" r="66"/>
+      <circle cx="1003" cy="315" r="107"/>
+      <circle cx="1003" cy="315" r="148"/>
+      <circle cx="1003" cy="315" r="189"/>
+      <circle cx="1003" cy="315" r="230"/>
+      <path d="M773 315H1158M1003 85V545"/>
+    </g>
+    <path d="M786 420L817 420L839 357L861 462L887 251L914 480L943 180L973 441L1003 221L1034 380L1063 279L1090 336L1158 336" stroke="#FF7968" stroke-width="7" stroke-linejoin="round"/>
+    <circle cx="1003" cy="315" r="10" fill="#F5F0E8" stroke="#111214" stroke-width="3"/>
+    <path d="M1003 315L1137 181" stroke="#F5F0E8" stroke-width="2"/>
+    <circle cx="1137" cy="181" r="7" fill="#FF7968"/>
+  </g>
+  <rect x="48" y="455" width="84" height="8" fill="#FF7968"/>
+  <g fill="#F5F0E8" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="2">
+    <text x="48" y="515">RESEARCH ENGINEER</text>
+  </g>
+  <path d="M48 566H1152" stroke="#464747"/>
+  <g fill="#B6B6B1" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">
+    <text x="48" y="607">MULTI-SENSOR PERCEPTION</text>
+    <text x="600" y="607" text-anchor="middle">RADAR ML</text>
+    <text x="1152" y="607" text-anchor="end">LLM APPLICATIONS</text>
+  </g>
+</svg>
