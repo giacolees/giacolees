@@ -1,4 +1,4 @@
-![Giacomo Lisita — experimental poster with oversized warm-white typography and coral and electric-blue signal geometry on near-black.](assets/profile-poster.svg)
+![Monochrome giacolees poster with oversized black lowercase lettering, a subtly shifted horizontal slice, and warm-white negative space.](assets/profile-poster.svg)
 
 Research engineer, M.Sc. in Computer Engineering, working across multi-sensor perception, radar ML, and LLM applications.
 
