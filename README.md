@@ -1,4 +1,4 @@
-![Monochrome giacolees poster with oversized black lowercase lettering, a subtly shifted horizontal slice, and white negative space.](assets/profile-poster.svg)
+![Custom giacolees.exe retro CD player with a pixel-art radar companion, blue title bar, and classic gray playback controls on white.](assets/profile-poster.svg)
 
 Research engineer, M.Sc. in Computer Engineering, working across multi-sensor perception, radar ML, and LLM applications.
 
